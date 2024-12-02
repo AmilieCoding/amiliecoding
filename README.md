@@ -1,4 +1,4 @@
-Hallo! I'm Amilie an English software developer who uses Java, Python, CSS and HTML!<br>
-You can see all my projects on here as I upload every single one with actual use!<br>
+# Hallo!
+I'm Amilie! I'm a genderfluid English software developer who puts all my projects on here! Refer to me however you like :D
 ![](https://komarev.com/ghpvc/?username=AmilieCoding)
 [![AmilieCodings's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmilieCoding&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
